@@ -1,0 +1,33 @@
+.table-border.striped {
+  border: 1px solid #E1BEE7;
+}
+
+.project-title{
+  text-align: center;
+  font-size: 40px;
+}
+
+.notification{
+  padding: 5% !important;
+}
+.movie-title {
+  float: left;
+  font-size: 30px;
+  text-align: cent
+}
+
+.movie-span{
+  clear: both;
+  float: left;
+}
+label.movie-title h1{
+  width: 500px;
+}
+.movie-image{
+  width:120px;
+  height:150px;
+}
+.plot{
+  width: 400px;
+  display: inline-block;
+}
